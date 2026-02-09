@@ -128,6 +128,3 @@ MATCH_RESULT
 - **2NF**: No partial dependencies (all non-key attributes depend on full primary key)
 - **3NF**: No transitive dependencies (no non-key attribute depends on another non-key attribute)
 
----
-
-
