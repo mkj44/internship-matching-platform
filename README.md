@@ -1,4 +1,4 @@
-# Skill-Based Internship & Project Matching Platform
+# Skill-Based Internship
 ## Database Management System Project
 
 ---
